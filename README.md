@@ -1,13 +1,22 @@
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 kkkkk, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
 
+<div align="center" width="50">
 
+<img src="" alt="W" width="300"/>
 
- <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" >
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hello, I'm Mathieu 👋 A passionate 🚀 French developer 🚀 who ❤️ Happy Hardcore ❤️">
-</p>
+<div align="center">
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
+or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
+
+<i>Happy Coding!</i> 😊
+
 
 
 
