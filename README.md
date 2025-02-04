@@ -5,5 +5,5 @@ style="background-color:#0f0f0f; padding:10px; border-radius:10px;"/>](https://r
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=435&lines=Welcome+to+My+Profile!;I+am+a+Hacker!;Stay+Tuned+for+More..." />
+<img src="https://your-svg-animation-url.svg" width="800" height="400"/>
 
