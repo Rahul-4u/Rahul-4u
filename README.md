@@ -27,6 +27,7 @@
 
 <p align="left">I’m always eager to learn new technologies, optimize performance, and explore innovative solutions in web development. 🚀</p>
 
+
 ###
 ### 🚀 What I'm Currently Doing  
 ⭐━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⭐
@@ -36,3 +37,17 @@
 - - 🌱 Currently learning **Next.js & TypeScript**
 
 - 👯 Looking to collaborate on **React, Next.js & Backend Development**
+
+ 
+
+<div align="center">  
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" height="30">
+  </a>  
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30">
+  </a>  
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" height="30">
+  </a>  
+</div>
