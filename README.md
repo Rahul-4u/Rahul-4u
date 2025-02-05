@@ -14,7 +14,10 @@
 
 ###
 
+
 <h3 align="left">💻 Tech Stack:</h3>
+⭐━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⭐
+
 
 ###
 
@@ -26,6 +29,8 @@
 
 ###
 ### 🚀 What I'm Currently Doing  
+⭐━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⭐
+
 - - 🔭 I’m working on **[Product Hunt](https://b10-a12-fbcff.web.app)**
 
 - - 🌱 Currently learning **Next.js & TypeScript**
