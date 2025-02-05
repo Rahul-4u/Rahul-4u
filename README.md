@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://i.ibb.co.com/Fq4LWY5G/Hey-I-am-Rahul-Baishnab-1.png"  />
+  <img height="200" src="https://i.ibb.co.com/Fq4LWY5G/Hey-I-am-Rahul-Baishnab-1.png"  />
 </div>
 
 ###
