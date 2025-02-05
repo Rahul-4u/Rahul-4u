@@ -6,48 +6,54 @@
 
 <br clear="both">
 
-<h1 align="left">👋 About Me</h1>
+## 👨‍💻 About Me – A Passionate Frontend Developer  
 
-###
+I’m a frontend developer with a deep passion for crafting sleek, high-performance web applications.  
+I focus on building intuitive, accessible, and scalable user experiences that push the limits of modern web technologies.  
 
-<p align="left">I’m a passionate Frontend Developer with a strong foundation in modern web technologies. I love building interactive, user-friendly web applications that provide seamless experiences across devices.</p>
+---
 
-###
+## 🚀 Tech Stack – My Tools of the Trade  
+⭐━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⭐  
 
+### 🖥️ **Frontend Technologies**  
+> HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js  
 
-<h3 align="left">💻 Tech Stack:</h3>
-⭐━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⭐
+### ⚙️ **Backend & APIs**  
+> Node.js, Express.js  
 
+### 🛢️ **Database & Storage**  
+> MongoDB, Firebase  
 
-###
+---
 
-<h3 align="left">>  Frontend: HTML, CSS, JavaScript,<br> >  Tailwind CSS, React.js, Next.js<br>> Backend: Node.js, Express.js<br>> Database: MongoDB</h3>
+## 🎯 What I’m Currently Up To  
+⭐━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⭐  
 
-###
+- 🔨 **Building:** [Product Hunt](https://b10-a12-fbcff.web.app)  
+- 📚 **Learning:** Next.js & TypeScript  
+- 🤝 **Collaborating On:** React, Next.js & Backend Development  
 
-<p align="left">I’m always eager to learn new technologies, optimize performance, and explore innovative solutions in web development. 🚀</p>
+---
 
+## 🌍 Let's Connect & Collaborate!  
+⭐━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⭐  
 
-###
-### 🚀 What I'm Currently Doing  
-⭐━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⭐
-
-- - 🔭 I’m working on **[Product Hunt](https://b10-a12-fbcff.web.app)**
-
-- - 🌱 Currently learning **Next.js & TypeScript**
-
-- 👯 Looking to collaborate on **React, Next.js & Backend Development**
-
- 
-
-<div align="center">  
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" height="30">
-  </a>  
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30">
-  </a>  
+<div align="left">
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="LinkedIn"  />
+  </a>
+  
   <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" height="30">
-  </a>  
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="Twitter"  />
+  </a>
+
+  <a href="https://web.facebook.com/rahul.baishnab.436978" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30"alt="Facebook"  />
+  </a>
 </div>
+
+---
+
+## ⚒️ Tech & Tools – What I Work With  
+⭐━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⭐  
