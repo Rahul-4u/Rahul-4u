@@ -6,18 +6,22 @@
 
 <br clear="both">
 
-<p align="left">Hello World!!</p>
+<h1 align="left">👋 About Me</h1>
 
 ###
 
-<p align="left">I'm an expert Frontend Developer with a passion for building high-performance, user-friendly web applications. My core expertise lies in the MERN stack, with a strong command of Next.js, React.js, and modern UI/UX principles. I specialize in crafting seamless, responsive, and scalable solutions while ensuring optimal performance. I enjoy tackling challenges that push the limits of web development and am always keen to explore and learn new technologies. 🚀 Currently, I'm focusing on improving my skills in advanced state management, performance optimization, and full-stack integrations.</p>
+<p align="left">I’m a passionate Frontend Developer with a strong foundation in modern web technologies. I love building interactive, user-friendly web applications that provide seamless experiences across devices.</p>
 
 ###
 
-<p align="left">Hello World!!</p>
+<h3 align="left">💻 Tech Stack:</h3>
 
 ###
 
-<p align="left">Hello World!!</p>
+<h3 align="left">>  Frontend: HTML, CSS, JavaScript,<br> >  Tailwind CSS, React.js, Next.js<br>> Backend: Node.js, Express.js<br>> Database: MongoDB</h3>
+
+###
+
+<p align="left">I’m always eager to learn new technologies, optimize performance, and explore innovative solutions in web development. 🚀</p>
 
 ###
