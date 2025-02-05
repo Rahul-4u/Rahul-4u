@@ -1,26 +1,25 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 kkkkk, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
-</div>
-
-<div align="center" width="50">
-
-<img src="" alt="W" width="300"/>
-
-</div>
+<br clear="both">
 
 <div align="center">
+  <img height="150" src="https://i.ibb.co.com/Fq4LWY5G/Hey-I-am-Rahul-Baishnab-1.png"  />
+</div>
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
+###
 
-<i>Happy Coding!</i> 😊
+<br clear="both">
 
+<p align="left">Hello World!!</p>
 
+###
 
+<p align="left">I'm an expert Frontend Developer with a passion for building high-performance, user-friendly web applications. My core expertise lies in the MERN stack, with a strong command of Next.js, React.js, and modern UI/UX principles. I specialize in crafting seamless, responsive, and scalable solutions while ensuring optimal performance. I enjoy tackling challenges that push the limits of web development and am always keen to explore and learn new technologies. 🚀 Currently, I'm focusing on improving my skills in advanced state management, performance optimization, and full-stack integrations.</p>
 
+###
 
+<p align="left">Hello World!!</p>
 
+###
 
+<p align="left">Hello World!!</p>
 
+###
