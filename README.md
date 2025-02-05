@@ -25,3 +25,7 @@
 <p align="left">I’m always eager to learn new technologies, optimize performance, and explore innovative solutions in web development. 🚀</p>
 
 ###
+### 🚀 What I'm Currently Doing  
+- 🔭 I’m working on **[Your Project Name]**  
+- 🌱 Currently learning **Prisma & PostgreSQL**  
+- 👯 Looking to collaborate on **React & Next.js projects**  
