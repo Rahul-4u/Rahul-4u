@@ -26,6 +26,8 @@
 
 ###
 ### 🚀 What I'm Currently Doing  
-- 🔭 I’m working on **[Your Project Name]**  
-- 🌱 Currently learning **Prisma & PostgreSQL**  
-- 👯 Looking to collaborate on **React & Next.js projects**  
+- - 🔭 I’m working on **[Product Hunt](https://b10-a12-fbcff.web.app)**
+
+- - 🌱 Currently learning **Next.js & TypeScript**
+
+- 👯 Looking to collaborate on **React, Next.js & Backend Development**
