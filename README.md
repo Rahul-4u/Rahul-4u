@@ -1,96 +1,104 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/WvJ4bX9z/Hey.png"  />
+  <img height="200" src="https://i.ibb.co.com/WvJ4bX9z/Hey.png"/>
 </div>
 
-###
+<h1 align="center">Hi 👋 I'm Rahul Baishnab</h1>
+<h3 align="center">Full Stack Web Developer | MERN & Next.js Specialist</h3>
 
-<br clear="both">
+---
 
-<h1 align="left">👋 About Me</h1>
+## 👨‍💻 About Me
 
-###
+I’m **Rahul Baishnab**, a passionate **Full Stack Web Developer** based in Bangladesh.  
+I specialize in building **modern, responsive, and scalable web applications** using technologies like **React, Next.js, Node.js, and MongoDB**.
 
-<p align="left">I’m a passionate Frontend Developer with a strong foundation in modern web technologies. I love building interactive, user-friendly web applications that provide seamless experiences across devices.</p>
+I enjoy transforming ideas into real-world digital products and continuously improving performance, user experience, and clean code practices.
 
-###
+---
 
+## 🚀 Current Focus
 
-<h3 align="left">💻 Tech Stack:</h3>
-⭐━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⭐
+- 🔭 Currently working on **Product Hunt Platform Clone**
+- 🌱 Learning **Next.js & TypeScript**
+- ⚡ Improving **Full Stack Development Skills**
+- 🤝 Open to collaborate on **React / Next.js / MERN Projects**
 
+---
 
-###
+## ⚒️ Tech Stack
 
-<h3 align="left">>  Frontend: HTML, CSS, JavaScript,<br> >  Tailwind CSS, React.js, Next.js<br>> Backend: Node.js, Express.js<br>> Database: MongoDB</h3>
+### Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React.js  
+- Next.js  
+- Tailwind CSS  
 
-###
+### Backend
+- Node.js  
+- Express.js  
 
-<p align="left">I’m always eager to learn new technologies, optimize performance, and explore innovative solutions in web development. 🚀</p>
+### Database
+- MongoDB  
+- Firebase  
 
+### Tools
+- Git  
+- GitHub  
+- Figma  
+- VS Code  
 
-###
-### 🚀 What I'm Currently Doing  
-⭐━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⭐
+---
 
-- - 🔭 I’m working on **[Product Hunt](https://b10-a12-fbcff.web.app)**
-
-- - 🌱 Currently learning **Next.js & TypeScript**
-
-- 👯 Looking to collaborate on **React, Next.js & Backend Development**
-
- 
-## 🌍 Connect with Me  
+## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+<a href="https://www.linkedin.com/in/yourusername">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://web.facebook.com/rahul.baishnab.436978" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+<a href="https://twitter.com/yourusername">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://web.facebook.com/rahul.baishnab.436978">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## ⚒️ Tech Stack & Tools  
+## ⚡ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,figma,vscode"/>
+
 </div>
 
-## ⚡ Stats  
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" width="300px"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" width="300px"/>
-      </td>
-    </tr>
-  </table>
 
-  <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true" width="450"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="500px"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="450"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="350"/>
+
 </div>
 
+---
+
+## 💡 Quote
+
+> "Code is not just about solving problems — it's about creating experiences."
