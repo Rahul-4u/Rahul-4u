@@ -1,104 +1,103 @@
-<div align="center">
-  <img height="200" src="https://i.ibb.co.com/WvJ4bX9z/Hey.png"/>
-</div>
+# Hi, I'm Rahul Baishnab 👋
 
-<h1 align="center">Hi 👋 I'm Rahul Baishnab</h1>
-<h3 align="center">Full Stack Web Developer | MERN & Next.js Specialist</h3>
+### Senior Full-Stack Developer | WordPress, Wix & Squarespace Specialist
+
+I build modern web applications, custom CMS solutions, and scalable digital products that solve real-world business problems.
+
+I specialize in both custom full-stack development and advanced CMS development, combining technical problem-solving with clean, user-focused design.
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m **Rahul Baishnab**, a passionate **Full Stack Web Developer** based in Bangladesh.  
-I specialize in building **modern, responsive, and scalable web applications** using technologies like **React, Next.js, Node.js, and MongoDB**.
-
-I enjoy transforming ideas into real-world digital products and continuously improving performance, user experience, and clean code practices.
-
----
-
-## 🚀 Current Focus
-
-- 🔭 Currently working on **Product Hunt Platform Clone**
-- 🌱 Learning **Next.js & TypeScript**
-- ⚡ Improving **Full Stack Development Skills**
-- 🤝 Open to collaborate on **React / Next.js / MERN Projects**
+- 💻 Full-Stack Web Developer with 2+ years of professional experience
+- 🚀 Experienced in building custom web applications and business management systems
+- 🌐 Advanced WordPress, Wix, and Squarespace development
+- ⚙️ Specialized in custom PHP development, plugin development, and API integration
+- 🧩 Experienced in frontend, backend, and database development
+- 🎯 Focused on building scalable, maintainable, and high-performance solutions
 
 ---
 
-## ⚒️ Tech Stack
+## 🛠️ Technical Skills
 
-### Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React.js  
-- Next.js  
-- Tailwind CSS  
+**Frontend Development**
+- HTML5, CSS3, JavaScript
+- React.js, Next.js
+- TypeScript
+- Tailwind CSS
 
-### Backend
-- Node.js  
-- Express.js  
+**Backend Development**
+- PHP
+- Node.js
+- REST API Development
+- Next.js Backend
 
-### Database
-- MongoDB  
-- Firebase  
+**CMS & Website Development**
+- WordPress
+- Elementor, Divi, Gutenberg
+- Custom WordPress Themes & Plugins
+- Wix & Wix Velo
+- Squarespace
+- WooCommerce
 
-### Tools
-- Git  
-- GitHub  
-- Figma  
-- VS Code  
+**Database & Authentication**
+- Supabase
+- PostgreSQL
+- Prisma
+- NextAuth
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/yourusername">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/yourusername">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://web.facebook.com/rahul.baishnab.436978">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-</div>
+**Tools & Platforms**
+- Git & GitHub
+- VS Code
+- Vercel
+- cPanel & Hosting Management
 
 ---
 
-## ⚡ Tech Stack & Tools
+## 🚀 Featured Projects
 
-<div align="center">
+### 1. DeshLine Paribahan — Bus Ticket Counter Management System
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,figma,vscode"/>
+A custom full-stack bus ticketing and management application designed to support bus operations and ticket counter management.
 
-</div>
+- Custom business management solution
+- Dedicated management interface
+- Modern web application architecture
 
----
+**Live Demo:** [View Project](https://bus-ticket-counter-management-p81l.vercel.app/)
 
-## 📊 GitHub Stats
+**Source Code:** [GitHub Repository](https://github.com/Rahul-4u/bus-ticket-counter-management)
 
-<div align="center">
+### 2. Custom WordPress Development
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true" width="450"/>
+Advanced WordPress solutions including custom themes, plugins, Elementor widgets, WooCommerce customization, and business functionality.
 
-<br/>
+### 3. CMS & Business Website Solutions
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="450"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="350"/>
-
-</div>
+Custom website development using Wix, Squarespace, and WordPress with responsive layouts, integrations, and tailored functionality.
 
 ---
 
-## 💡 Quote
+## 🎯 Current Focus
 
-> "Code is not just about solving problems — it's about creating experiences."
+- Advanced WordPress Plugin & Theme Development
+- WordPress REST API & Headless CMS
+- Advanced Wix Velo Development
+- Custom Squarespace Development
+- Full-Stack Application Architecture
+- AI-Assisted Development Workflows
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on innovative web development projects, custom business solutions, and modern CMS platforms.
+
+- GitHub: [@Rahul-4u](https://github.com/Rahul-4u)
+- Portfolio: Add your portfolio URL here
+- LinkedIn: Add your LinkedIn URL here
+
+---
+
+**Building digital experiences through code, creativity, and problem-solving.**
