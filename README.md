@@ -46,7 +46,7 @@ With 2+ years of professional hands-on client delivery, I specialize in engineer
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="assets/avatar-circle.png" width="220" alt="Rahul Baishnab Portrait" />
+<img src="assets/about-portrait.png" width="240" alt="Rahul Baishnab" />
 
 <br/><br/>
 
