@@ -1,9 +1,8 @@
 <div align="center">
 
-  <img src="assets/avatar-circle.png" width="160" height="160" alt="Rahul Baishnab" style="border-radius: 50%;" />
+  <img src="assets/banner.png" width="100%" alt="Rahul Baishnab — Senior Full-Stack Developer Banner" />
 
-  # Hi there, I'm Rahul Baishnab 👋
-  ### Senior Full-Stack Web Developer & CMS Engineer
+  <br/><br/>
 
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF0055&center=true&vCenter=true&width=620&lines=Senior+Full-Stack+Web+Developer;WordPress+%26+Custom+Plugin+Architect;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+PHP;Building+High-Performance+Digital+Experiences;Available+for+Freelance+%26+Contract+Projects" alt="Typing SVG" />
@@ -47,13 +46,13 @@ With 2+ years of professional hands-on client delivery, I specialize in engineer
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="assets/rahul-baishnab.png" width="240" alt="Rahul Baishnab Portrait" style="border-radius: 12px;" />
+<img src="assets/avatar-circle.png" width="220" alt="Rahul Baishnab Portrait" />
 
-<br/>
+<br/><br/>
 
-**🟢 Status:** Available for New Projects  
-**🚀 Experience:** 2+ Years Commercial  
-**🎯 Focus:** Clean Code & Scalability  
+**🟢 Status:** Available for Projects  
+**🚀 Experience:** 2+ Commercial  
+**🎯 Focus:** Scalable Engineering  
 
 </td>
 </tr>
