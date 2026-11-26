@@ -154,6 +154,25 @@ Transforming standard website builders into custom, dynamic, high-converting pla
 <tr>
 <td width="50%" valign="top">
 
+#### ⚡ Nexora — Digital Agency & CRM Platform
+*High-converting digital agency platform unified with multi-tenant business CRM.*
+
+<img src="assets/nexora-preview.jpg" width="100%" alt="Nexora Project Preview" style="border-radius: 8px;" />
+
+- 📊 **Executive CRM Dashboard** with lead tracking, deal pipelines & revenue KPIs.
+- 🎯 **Interactive Conversion Funnel** and high-converting service showcases.
+- 👥 **Multi-Tenant Workspace** for project delivery, team tasks & operations.
+- ⚡ **Stack:** Next.js, React, TypeScript, Tailwind CSS, CRM Architecture.
+
+<p>
+  <a href="https://nexora-six-phi-85.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
 #### 🚌 DeshLine Paribahan — Bus Ticketing System
 *A real-world intercity coach network platform built for speed and reliability.*
 
@@ -172,6 +191,8 @@ Transforming standard website builders into custom, dynamic, high-converting pla
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🧩 Custom WordPress Plugins & Themes
@@ -185,6 +206,23 @@ Transforming standard website builders into custom, dynamic, high-converting pla
 <p>
   <a href="https://rahulweb24.vercel.app/#services" target="_blank">
     <img src="https://img.shields.io/badge/View_Services-ff0055?style=for-the-badge&logo=wordpress&logoColor=white" />
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+#### ✨ Squarespace & Custom Web Engineering
+*High-converting Squarespace and modern custom frontends.*
+
+- 🎨 **Custom JavaScript & CSS Injection** taking templates beyond defaults.
+- 📱 **Pixel-Perfect Responsive Layouts** tuned for mobile, tablet, and desktop.
+- 🛒 **Custom E-Commerce & Checkout** flows with dynamic filtering.
+- ⚡ **SEO & Performance Optimization** with structured data and quick load speeds.
+
+<p>
+  <a href="https://rahulweb24.vercel.app/#services" target="_blank">
+    <img src="https://img.shields.io/badge/View_Specialties-000000?style=for-the-badge&logo=squarespace&logoColor=white" />
   </a>
 </p>
 
